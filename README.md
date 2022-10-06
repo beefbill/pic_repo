@@ -1,2 +1,2 @@
 # pic_repo
-Repository for upload markdown pictures
+Repository for upload markdown pictures.
